@@ -1,0 +1,6 @@
+{
+  "explorer.autoReveal": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}

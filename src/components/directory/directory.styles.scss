@@ -1,0 +1,8 @@
+.directory {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+  justify-content: center;
+  align-items: center;
+  grid-gap: 2rem;
+  padding: 2.5rem;
+}
