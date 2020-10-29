@@ -1,8 +1,9 @@
 .directory {
+  background-color: #333;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(35rem, 1fr));
   justify-content: center;
   align-items: center;
   grid-gap: 2rem;
-  padding: 2.5rem;
+  padding: 7rem 7rem;
 }
